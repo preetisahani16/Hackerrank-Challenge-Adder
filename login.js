@@ -1,7 +1,7 @@
 let challenges = require("./challenges.js");
 let puppeteer = require("puppeteer");
 let id ="kijefir668@shzsedu.com";
-let pw = "cute12";
+let pw = "cuteyati12";
 
 (async function () {
   let browser = await puppeteer.launch({
